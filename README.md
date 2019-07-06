@@ -1,4 +1,6 @@
 # adventure-money
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui?ref=badge_shield)
+
 
 ## Project setup
 ```
@@ -37,3 +39,7 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui?ref=badge_large)
