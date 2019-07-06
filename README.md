@@ -1,5 +1,6 @@
 # adventure-money-ui
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui?ref=badge_shield) [![Known Vulnerabilities](https://snyk.io//test/github/yetti/adventure-money-ui/badge.svg?targetFile=package.json)](https://snyk.io//test/github/yetti/adventure-money-ui?targetFile=package.json)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui?ref=badge_shield) 
+[![Known Vulnerabilities](https://snyk.io//test/github/yetti/adventure-money-ui/badge.svg?targetFile=package.json)](https://snyk.io//test/github/yetti/adventure-money-ui?targetFile=package.json)
 
 ## Project setup
 ```
