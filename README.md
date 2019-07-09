@@ -1,6 +1,6 @@
-# adventure-money
+# adventure-money-ui
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui?ref=badge_shield)
-
+[![Known Vulnerabilities](https://snyk.io//test/github/yetti/adventure-money-ui/badge.svg?targetFile=package.json)](https://snyk.io//test/github/yetti/adventure-money-ui?targetFile=package.json)
 
 ## Project setup
 ```
@@ -40,6 +40,8 @@ yarn run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
 ## License
+
+adventure-money-ui is released under the [MIT License](https://opensource.org/licenses/MIT).
+
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money-ui?ref=badge_large)
